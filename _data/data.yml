@@ -1,8 +1,8 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Georgia Lydia Ntafa                     # name
+  title: Junior Software Developer           # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: hide                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
