@@ -67,13 +67,15 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hi, I am Lydia! I have a computer science degree and I recently graduated from Makers Academy's 14-week full-time Software Development bootcamp.
-    I live and work in London since 2017. During this time, I've climbed through the ranks, starting in Customer Service and ultimately reaching the position of eCommerce Manager. 
-    However, my passion for technology and innovation has given me the motivation to embark on this exciting career transition journey to fulfill my dream of becoming a software developer.
+    Hi, I am Lydia! I live and work in London since 2017. During this time, I've climbed through the ranks, starting in Customer Service and ultimately reaching the position of eCommerce Manager.
     
-    This transformative journey has equipped me with a robust skill set in front-end and back-end test-driven development using Object-Oriented Programming languages like Python and Javascript. 
-    My experience in customer-centric roles has instilled in me a deep understanding of user needs and a commitment to delivering solutions that not only meet but exceed expectations.
+    However, my passion for technology and innovation has motivated me to embark on an exciting career transition journey, in March 2023, to fulfill my dream of becoming a software developer.
+    
+    I already had a computer science degree and I recently graduated from Makers Academy's 14-week full-time Software Development bootcamp.
+    This transformative journey has equipped me with a robust skill set in front-end and back-end test-driven development using Object-Oriented Programming languages like Python and Javascript. I aim to keep applying those skills to every small or larger project I am involved in, while I am building my portfolio and experience.
 
+    I am now seeking to leverage my combined experiences and newly acquired technical skills as a Junior Software Developer. I am excited to collaborate with innovative teams, tackle complex coding challenges, and embark on a journey of continuous learning in this ever-evolving field.
+    
 experience:
   show: true
   order: 2
