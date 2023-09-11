@@ -9,31 +9,16 @@ contact:
   # meta
   location: London, UK # location
   email: lydiadafa@gmail.com    # email address
-  phone: +4474519405357 # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-
-  prefName: Lydia                  # gender or pronoun
-  preferred pronouns: she/her                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
-
-  # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram:                # username          | https://t.me/username
-  messenger:               # username          | https://m.me/username
-  line:                    # lineid            | https://line.me/R/ti/p/@lineid
-  viber:                   # username          | https://vb.me/username
-  threema:                 # userid            | https://threema.id/userid
+  phone: 074519405357 # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
   # programmer
-  github:                  # username          | https://github.com/username
+  github: LydiaNtafa                # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
   leetcode:                # username          | https://leetcode.com/username
   codeforces:              # username          | https://codeforces.com/profile/username
-  codewars:                # username          | https://www.codewars.com/users/username
+  codewars: LydiaNtafa             # username          | https://www.codewars.com/users/username
   codepen:                 # username          | https://codepen.io/username
   tryhackme:               # username          | https://tryhackme.com/p/username
 
