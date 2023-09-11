@@ -7,13 +7,12 @@ basic:
 
 contact:
   # meta
-  location: Beijing, China # location
-  email: me@example.com    # email address
-  phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: London, UK # location
+  email: lydiadafa@gmail.com    # email address
+  phone: +4474519405357 # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
+  prefName: Lydia                  # gender or pronoun
+  preferred pronouns: she/her                # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
