@@ -67,15 +67,12 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hi, I am Lydia! I live and work in London since 2017. During this time, I've climbed through the ranks, starting in Customer Service and ultimately reaching the position of eCommerce Manager.
-    
-    However, my passion for technology and innovation has motivated me to embark on an exciting career transition journey, in March 2023, to fulfill my dream of becoming a software developer.
-    
-    I already had a computer science degree and I recently graduated from Makers Academy's 14-week full-time Software Development bootcamp.
-    This transformative journey has equipped me with a robust skill set in front-end and back-end test-driven development using Object-Oriented Programming languages like Python and Javascript. I aim to keep applying those skills to every small or larger project I am involved in, while I am building my portfolio and experience.
+    My journey began with my passion for software development which I followed by successfully completing my BSc in Computer Science. Through this, I have had wide experience across multiple industries such as data analytics, education, and game development.
+     I am driven by curiosity and seeking ways to make improvements where feasible. I live and work in London since 2017. During this time, I’ve climbed through the ranks, starting in Customer Service and ultimately reaching the position of eCommerce Manager. 
+     It was during my last role, where I was heavily involved in optimising the company's consumer-facing websites that my passion for building effective and accessible software got reignited and drove me towards another life-changing decision.
+     I wanted to refresh my coding skills and gain professional insight into the latest technologies and procedures of the modern tech industry. This is why I completed an intensive coding boot camp where I learned to apply test-driven development and agile methodologies while designing and building projects as part of a team.
+    I am passionate about working within an inspiring organisation where I can utilise my problem-solving skills to make a visible change for others. I seek to further upgrade my software development skills, tackle complex coding challenges and embark on a journey of continuous learning in this ever-evolving field.
 
-    I am now seeking to leverage my combined experiences and newly acquired technical skills as a Junior Software Developer. I am excited to collaborate with innovative teams, tackle complex coding challenges, and embark on a journey of continuous learning in this ever-evolving field.
-    
 experience:
   show: true
   order: 2
