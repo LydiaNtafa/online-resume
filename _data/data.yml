@@ -140,7 +140,6 @@ project:
         Designed and implemented battle maps and encounters, for the sidequests of a space shooter RPG. Sound edited the voice acting clips to balance volume and frequencies. Alpha tested the final product.
         + Unity Engine, C#, Adobe Audition, iOS
 
-
 skill:
   show: true
   order: 4
