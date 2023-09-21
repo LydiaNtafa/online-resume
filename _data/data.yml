@@ -78,38 +78,41 @@ experience:
   order: 3
   title: Experience
   description: |
+  
   items:
     - company: Marina's Dinner
-          date: 10.2015 - 11.2016
-          role: Dinning Room Manager
-          location: Corfu, Greece
-          description: |
-          Supervised dining room operation and coordinated food service activities.
-          + Supervised and trained employees, consulted with food preparation employees and planned menus and related activities. 
-          + Managed food and beverage inventory.
-          + Assisted with financial transactions and monitoring budget to ensure efficient operation and that expenditures stay within budget limitations. 
-          + Maintained payroll and bookkeeping records.
-          + Skills: Communication · Customer Service · Attention to detail · Multitasking · Organisation
+      link: 
+      tags: 
+      date: 10.2015 - 11.2016
+      role: Dinning Room Manager
+      location: Corfu, Greece
+      description: |
+        Supervised dining room operation and coordinated food service activities.
+        + Supervised and trained employees, consulted with food preparation employees and planned menus and related activities. 
+        + Managed food and beverage inventory.
+        + Assisted with financial transactions and monitoring budget to ensure efficient operation and that expenditures stay within budget limitations. 
+        + Maintained payroll and bookkeeping records.
+        + skills: Communication · Customer Service · Attention to detail · Multitasking · Organisation
   
     - company: Self-Employed
-          tags: 
-          date: 01.2015 - 06.2016
-          role: Private Tutor for High School Students
-          location: Corfu, Greece
-          description: |
-          + Provided supplementary private tuition, preparing students for university admission national exams in basic programming and network fundamentals. The equivalent in the UK would be to prepare year 10-11 students for their technology GCSE examinations. 
-          + Achieved a 100% success rate of all of my student’s goals, one of which was to be accepted into an undergraduate course in Automation Engineering at the Technological Sector of the Higher Educational Institution of Piraeus.
-          + Tech: Pascal, Microsoft Word, Human Resource Machine Game 
-          link: https://tomorrowcorporation.com/humanresourcemachine
-          + Skills: Communication · Resourcefulness · Empathy · Active Listening · Goal Setting
+      link: 
+      tags:
+      date: 01.2015 - 06.2016
+      role: Private Tutor for High School Students
+      location: Corfu, Greece
+      description: |
+        + Provided supplementary private tuition, preparing students for university admission national exams in basic programming and network fundamentals. The equivalent in the UK would be to prepare year 10-11 students for their technology GCSE examinations. 
+        + Achieved a 100% success rate of all of my student’s goals, one of which was to be accepted into an undergraduate course in Automation Engineering at the Technological Sector of the Higher Educational Institution of Piraeus.
+        + Tech: Pascal, Microsoft Word, Human Resource Machine Game 
+        + skills: Communication · Resourcefulness · Empathy · Active Listening · Goal Setting
           
     - company: Liston Coffee, Wine Bar and Restaurant
-          link: 
-          tags: Full-time
-          date: 01.2013 - 10.2015
-          role: Food Server - Coffee Barista
-          location: Corfu, Greece
-          description: |
+      link: 
+      tags: Full-time
+      date: 01.2013 - 10.2015
+      role: Food Server - Coffee Barista
+      location: Corfu, Greece
+      description: |
   
     - company: InsurgentX Entertainment Ltd
       link: 
@@ -121,8 +124,8 @@ experience:
         + Involved in level design and development of battle maps and encounters, for the sidequests of the space shooter RPG “Acheron Prime” which was released for iOS smartphones.
         + Edited all the in-house recorded voice clips, to balance the volume and frequencies and match them with the clips provided by 3rd parties.
         + Alpha tested the released game and identified bugs or design issues that were fixed on the first patch.
-        + Tech: Unity3D, C#, Adobe Audition, iOS
-        + Skills: Skill Development · Game Design · Quick learning · Object-Oriented Programming (OOP) · Creativity
+        + tech: Unity3D, C#, Adobe Audition, iOS
+        + skills: Skill Development · Game Design · Quick learning · Object-Oriented Programming (OOP) · Creativity
 
     - company: Hellenic Statistical Authority
       link:
@@ -135,7 +138,7 @@ experience:
         + Mapped the area and designed my schedule to make sure I had visited all 10 buildings and 80 flats, at least once and gave them a chance to reschedule the interview for another day.
         + Collected data while conducting door-to-door interviews with the members of the appointed households. I ensured that the interviews were conducted with discretion and empathy while making sure I was gathering all the necessary data.
         + Categorised, analysed and registered the survey data in a timely and professional manner while securing all sensitive information from the public.
-        + Skills: Communication · Research · Data Entry · Time-management
+        + skills: Communication · Research · Data Entry · Time-management
 
 project:
   show: true
