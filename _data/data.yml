@@ -81,7 +81,7 @@ experience:
   items:
 
   - company: AllSaints
-      link: 'https://www.allsaints.com/'
+      link: 
       tags: 
       date: 12.2017 - 03.2018
       role: Customer Care, Sales advise
@@ -127,7 +127,7 @@ experience:
       + Skills: Business Management · Quick learning · Communication · Problem Solving · Research · Analytical Skills · Sales · Data Entry
       
     - company: Marina's Tavern
-      link: 'https://www.tripadvisor.co.uk/Restaurant_Review-g662629-d2312885-Reviews-Marina_s_Tavern-Corfu_Town_Corfu_Ionian_Islands.html'
+      link: 
       tags: 
       date: 10.2015 - 11.2016
       role: Dinning Room Manager
