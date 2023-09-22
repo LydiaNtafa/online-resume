@@ -33,6 +33,61 @@ experience:
   description: |
   
   items:
+  - company: Makers Academy
+      link: 
+      tags: 
+      date: 05.2023 - 09.2023
+      role: Software Engineering Student
+      location: London, UK
+      description: |
+          + Adopted a growth mindset to become an efficient self-learner and language-agnostic developer. Within a week I was able to switch from Python to Javascript, learned the language’s syntax, how to set up a project for testing and how it is to program and asynchronous methods.
+          + Learned the importance of using OOD and TDD to write good quality code that is reliable and can be easily understood, maintained and upgraded.
+          + Applied agile principles while working on group projects and focusing on efficient project design, short sprints, daily stand-ups, group reviews of Pull Requests and pair programming.
+          + Gained experience and a varied problem-solving skill set to debug mine or someone else's code, like identifying the different types of errors, and gaining visibility of values with print statements or an interactive debugger.
+          + Used code and software to perform CRUD operations on databases, such as Postgres, mongoose and TablePlus.
+          + Tech:  JavaScript · Python · MERN Stack · Postgres · Git · PostMan · pytest · jest · Cypress · HTML · CSS
+          + Skills: Agile Development · Skill Development · Quick learning · Test-Driven Development · Object-Oriented Programming (OOP) · Agile Project Management · Web Application Development 
+  
+  - company: Click Europe Ltd
+    link: 
+    tags: 
+    date: 04.2021 - 03.2023
+    role: Customer Service and eCommerce Manager
+    location: London, UK
+    description: |
+        + Managed several seller accounts for marketplaces in the UK and EU such as Amazon, eBay, OnBuy, FNAC, Kaufland, and CDiscount.
+        + Initiated targeted marketing campaigns to optimise budget distribution according to seasonal trends and inventory metrics. To achieve this I generated sales and inventory reports and presented them in weekly meetings with the CEO to identify current or potential issues and strengths.
+        + Identified keywords and analysed competitors to design SEO strategies that delivered organic sales and gained brand awareness.
+        + Partnered with the web development team to deploy a smooth platform migration for the company’s B2C website. Due to thorough planning, data pruning and effective communication we were able to accomplish zero downtime, zero valuable data loss and zero security breaches, enhancing the overall customer experience.
+        + All the operations and responsibilities of the Customer Service Manager as seen below.
+        + Tech: Microsoft 365 · Linnworks · WordPress · eDesk · Magento 2 · Helium10 · Google Analytics · Tableau · Amazon Seller Central
+        + Skills: Skill Development · Business Management · Digital Marketing · Quick learning · Communication · Problem Solving · Research · Analytical Skills · Sales · Data Entry
+        
+  - company: Click Europe Ltd
+    link: 
+    tags: 
+    date: 09.2020 - 04.2021
+    role: Customer Service Manager
+    location: London, UK
+    description: |
+        + Trained and supported the new and existing customer service admins, while making sure all the training materials were available on demand and up to date. Due to the complicated nature of international trade, I introduced an online guide for the admins, which they could always refer to, to accurately advise their customers and manage their expectations.
+        + Established realistic customer satisfaction targets and worked with the team to meet those targets daily. Personalised responses, brand tone consistency and retail customer satisfaction were prioritised during off-peak seasons. During peak seasons the priority was to achieve third-party SLAs and avoid account suspensions and penalties.
+        + Worked closely with demand planning and warehousing teams in order to ensure smooth order fulfilment.
+        + Monitored products and service metrics and flagged potential issues.
+        + Maintained a "Feefo Trusted Service Award for outstanding service" for 4 years for www.bopster.eu.
+        + Tech: Microsoft 365 · Linnworks · WordPress · eDesk · Magento 2 · Google Analytics · Tableau · Amazon Seller Central
+        + Skills: Customer Service · Communication · Problem Solving · Written Communication · Analytical Skills · Data Entry 
+        
+  - company: Click Europe Ltd
+    link: 
+    tags: 
+    date: 06.2018 - 08.2020
+    role: Customer Service Admin
+    location: London, UK
+    description: |
+        + Tech: Microsoft 365 · Linnworks · eDesk · Magento 2
+        + Skills: Customer Service · Communication · Problem Solving · Written Communication · Data Entry
+        
   - company: AllSaints
     link: 
     tags: 
@@ -182,9 +237,6 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
     - institution: Example University
