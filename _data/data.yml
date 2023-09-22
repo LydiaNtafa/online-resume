@@ -1,66 +1,19 @@
 basic:
-  name: Lydia Ntafa                     # name
+  name: Lydia Ntafa                          # name
   title: Junior Software Developer           # job title
   avatar:
-    show: hide                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    show: hide                               # show or hide avatar
+    path:                                    # avatar file path
 
 contact:
   # meta
-  location: London, UK # location
-  email: lydiadafa@gmail.com    # email address
-  phone: 074519405357 # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  location: London, UK                       # location
+  email: lydiadafa@gmail.com                 # email address
+  phone: 074519405357                        # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
   # programmer
   github: LydiaNtafa                # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
-  bitbucket:               # username          | https://bitbucket.com/username
-  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
-  leetcode:                # username          | https://leetcode.com/username
-  codeforces:              # username          | https://codeforces.com/profile/username
   codewars: LydiaNtafa             # username          | https://www.codewars.com/users/username
-  codepen:                 # username          | https://codepen.io/username
-  tryhackme:               # username          | https://tryhackme.com/p/username
-
-  # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
-
-  # writer
-  devto:                   # username          | https://dev.to/username
-  medium:                  # username          | https://medium.com/@username
-  wordpress:               # username          | https://username.wordpress.com
-  blogger:                 # username          | https://username.blogspot.com
-  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
-
-  # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
-  dribble:                 # username          | https://dribbble.com/username
-  artstation:              # username          | https://www.artstation.com/username
-
-  # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
-  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
-  fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
-
-  # social media
-  twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
-  instagram:               # username          | https://instagram.com/username
-  unsplash:                # username          | https://unsplash.com/@username
-  _500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
-  tiktok:                  # username          | https://www.tiktok.com/@username
-  quora:                   # username          | https://www.quora.com/profile/username
-  zhihu:                   # username          | https://www.zhihu.com/people/username
-  goodreads:               # username          | https://www.goodreads.com/user/show/username
-  strava:                  # useid             | https://www.strava.com/athletes/userid
 
 profile:
   show: true
@@ -78,14 +31,15 @@ experience:
   order: 3
   title: Experience
   description: |
+  
   items:
   - company: AllSaints
-      link: 
-      tags: 
-      date: 12.2017 - 03.2018
-      role: Customer Care, Sales advise
-      location: London, UK
-      description: |
+    link: 
+    tags: 
+    date: 12.2017 - 03.2018
+    role: Customer Care, Sales advise
+    location: London, UK
+    description: |
         + Handled customer contacts across multiple channels including phone, email, social media and messenger channels in line with the brand tone of voice guidelines.
         + Used numerous in-house software systems, CRM platforms and payment gateways.
         + Handled Customer care and sales enquiries, such as complaint handling, problem-solving, processing monetary transactions, liaising with logistics and payment gateway partners and delivering customer case resolution. 
@@ -96,12 +50,12 @@ experience:
         + Skills: Customer Service · Analytical skills · Communication · Sales · Problem Solving · Data Entry
 
   - company: Marina's Tavern
-      link: 
-      tags: 
-      date: 06.2017 - 11.2017
-      role: Food and Beverage Manager
-      location: Corfu, Greece
-      description: |
+    link: 
+    tags: 
+    date: 06.2017 - 11.2017
+    role: Food and Beverage Manager
+    location: Corfu, Greece
+    description: |
         + Directed the delivery of professional food services that was a material factor in producing cost-effectiveness, positive financial results, customer satisfaction and a positive public image.
         + Estimated food and beverage costs and requisitions or purchases of supplies, equipment, and food and beverages. 
         + Brainstormed with other personnel and management to plan menus and related activities. 
@@ -125,65 +79,65 @@ experience:
       + Tech: FarmakonNet · Microsoft Word · Microsoft Excel
       + Skills: Business Management · Quick learning · Communication · Problem Solving · Research · Analytical Skills · Sales · Data Entry
       
-    - company: Marina's Tavern
-      link: 
-      tags: 
-      date: 10.2015 - 11.2016
-      role: Dinning Room Manager
-      location: Corfu, Greece
-      description: |
-        Supervised dining room operation and coordinated food service activities.
-        + Supervised and trained employees, consulted with food preparation employees and planned menus and related activities. 
-        + Managed food and beverage inventory.
-        + Assisted with financial transactions and monitoring budget to ensure efficient operation and that expenditures stay within budget limitations. 
-        + Maintained payroll and bookkeeping records.
-        + Skills: Communication · Customer Service · Attention to detail · Multitasking · Organisation
-  
-    - company: Self-Employed
-      link: 
-      tags:
-      date: 01.2015 - 06.2016
-      role: Private Tutor for High School Students
-      location: Corfu, Greece
-      description: |
-        + Provided supplementary private tuition, preparing students for university admission national exams in basic programming and network fundamentals. The equivalent in the UK would be to prepare year 10-11 students for their technology GCSE examinations. 
-        + Achieved a 100% success rate of all of my student’s goals, one of which was to be accepted into an undergraduate course in Automation Engineering at the Technological Sector of the Higher Educational Institution of Piraeus.
-        + Tech: Pascal · Microsoft Word · Human Resource Machine Game 
-        + Skills: Communication · Resourcefulness · Empathy · Active Listening · Goal Setting
-          
-    - company: Liston Coffee, Wine Bar and Restaurant
-      link: 
-      tags: Full-time
-      date: 01.2013 - 10.2015
-      role: Food Server - Coffee Barista
-      location: Corfu, Greece
-      description: |
-  
-    - company: InsurgentX Entertainment Ltd
-      link: 
-      tags: Full-time
-      date: 01.2012 - 10.2012
-      role: Graduate Developer
-      location: Thessaloniki, Greece
-      description: |
-        + Involved in level design and development of battle maps and encounters, for the sidequests of the space shooter RPG “Acheron Prime” which was released for iOS smartphones.
-        + Edited all the in-house recorded voice clips, to balance the volume and frequencies and match them with the clips provided by 3rd parties.
-        + Alpha tested the released game and identified bugs or design issues that were fixed on the first patch.
-        + Tech: Unity3D · C# · Adobe Audition · iOS
-        + Skills: Skill Development · Game Design · Quick learning · Object-Oriented Programming (OOP) · Creativity
+  - company: Marina's Tavern
+    link: 
+    tags: 
+    date: 10.2015 - 11.2016
+    role: Dinning Room Manager
+    location: Corfu, Greece
+    description: |
+      Supervised dining room operation and coordinated food service activities.
+      + Supervised and trained employees, consulted with food preparation employees and planned menus and related activities. 
+      + Managed food and beverage inventory.
+      + Assisted with financial transactions and monitoring budget to ensure efficient operation and that expenditures stay within budget limitations. 
+      + Maintained payroll and bookkeeping records.
+      + Skills: Communication · Customer Service · Attention to detail · Multitasking · Organisation
 
-    - company: Hellenic Statistical Authority
-      link:
-      tags: Contract
-      date: 04.2011 - 06.2011
-      role: Assistant at the census of national population and housing
-      location: Thessaloniki, Greece
-      description: |
-        Your key responsibilities and achievements in the company.
-        + Mapped the area and designed my schedule to make sure I had visited all 10 buildings and 80 flats, at least once and gave them a chance to reschedule the interview for another day.
-        + Collected data while conducting door-to-door interviews with the members of the appointed households. I ensured that the interviews were conducted with discretion and empathy while making sure I was gathering all the necessary data.
-        + Categorised, analysed and registered the survey data in a timely and professional manner while securing all sensitive information from the public.
-        + Skills: Communication · Research · Data Entry · Time-management
+  - company: Self-Employed
+    link: 
+    tags:
+    date: 01.2015 - 06.2016
+    role: Private Tutor for High School Students
+    location: Corfu, Greece
+    description: |
+      + Provided supplementary private tuition, preparing students for university admission national exams in basic programming and network fundamentals. The equivalent in the UK would be to prepare year 10-11 students for their technology GCSE examinations. 
+      + Achieved a 100% success rate of all of my student’s goals, one of which was to be accepted into an undergraduate course in Automation Engineering at the Technological Sector of the Higher Educational Institution of Piraeus.
+      + Tech: Pascal · Microsoft Word · Human Resource Machine Game 
+      + Skills: Communication · Resourcefulness · Empathy · Active Listening · Goal Setting
+        
+  - company: Liston Coffee, Wine Bar and Restaurant
+    link: 
+    tags: Full-time
+    date: 01.2013 - 10.2015
+    role: Food Server - Coffee Barista
+    location: Corfu, Greece
+    description: |
+
+  - company: InsurgentX Entertainment Ltd
+    link: 
+    tags: Full-time
+    date: 01.2012 - 10.2012
+    role: Graduate Developer
+    location: Thessaloniki, Greece
+    description: |
+      + Involved in level design and development of battle maps and encounters, for the sidequests of the space shooter RPG “Acheron Prime” which was released for iOS smartphones.
+      + Edited all the in-house recorded voice clips, to balance the volume and frequencies and match them with the clips provided by 3rd parties.
+      + Alpha tested the released game and identified bugs or design issues that were fixed on the first patch.
+      + Tech: Unity3D · C# · Adobe Audition · iOS
+      + Skills: Skill Development · Game Design · Quick learning · Object-Oriented Programming (OOP) · Creativity
+
+  - company: Hellenic Statistical Authority
+    link:
+    tags: Contract
+    date: 04.2011 - 06.2011
+    role: Assistant at the census of national population and housing
+    location: Thessaloniki, Greece
+    description: |
+      Your key responsibilities and achievements in the company.
+      + Mapped the area and designed my schedule to make sure I had visited all 10 buildings and 80 flats, at least once and gave them a chance to reschedule the interview for another day.
+      + Collected data while conducting door-to-door interviews with the members of the appointed households. I ensured that the interviews were conducted with discretion and empathy while making sure I was gathering all the necessary data.
+      + Categorised, analysed and registered the survey data in a timely and professional manner while securing all sensitive information from the public.
+      + Skills: Communication · Research · Data Entry · Time-management
 
 project:
   show: true
