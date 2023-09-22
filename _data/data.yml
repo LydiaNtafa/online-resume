@@ -34,20 +34,20 @@ experience:
   
   items:
   - company: Makers Academy
-      link: 
-      tags: 
-      date: 05.2023 - 09.2023
-      role: Software Engineering Student
-      location: London, UK
-      description: |
-          + Adopted a growth mindset to become an efficient self-learner and language-agnostic developer. Within a week I was able to switch from Python to Javascript, learned the language’s syntax, how to set up a project for testing and how it is to program and asynchronous methods.
-          + Learned the importance of using OOD and TDD to write good quality code that is reliable and can be easily understood, maintained and upgraded.
-          + Applied agile principles while working on group projects and focusing on efficient project design, short sprints, daily stand-ups, group reviews of Pull Requests and pair programming.
-          + Gained experience and a varied problem-solving skill set to debug mine or someone else's code, like identifying the different types of errors, and gaining visibility of values with print statements or an interactive debugger.
-          + Used code and software to perform CRUD operations on databases, such as Postgres, mongoose and TablePlus.
-          + Tech:  JavaScript · Python · MERN Stack · Postgres · Git · PostMan · pytest · jest · Cypress · HTML · CSS
-          + Skills: Agile Development · Skill Development · Quick learning · Test-Driven Development · Object-Oriented Programming (OOP) · Agile Project Management · Web Application Development 
-  
+    link: 
+    tags: 
+    date: 05.2023 - 09.2023
+    role: Software Engineering Student
+    location: London, UK
+    description: |
+        + Adopted a growth mindset to become an efficient self-learner and language-agnostic developer. Within a week I was able to switch from Python to Javascript, learned the language’s syntax, how to set up a project for testing and how it is to program and asynchronous methods.
+        + Learned the importance of using OOD and TDD to write good quality code that is reliable and can be easily understood, maintained and upgraded.
+        + Applied agile principles while working on group projects and focusing on efficient project design, short sprints, daily stand-ups, group reviews of Pull Requests and pair programming.
+        + Gained experience and a varied problem-solving skill set to debug mine or someone else's code, like identifying the different types of errors, and gaining visibility of values with print statements or an interactive debugger.
+        + Used code and software to perform CRUD operations on databases, such as Postgres, mongoose and TablePlus.
+        + Tech:  JavaScript · Python · MERN Stack · Postgres · Git · PostMan · pytest · jest · Cypress · HTML · CSS
+        + Skills: Agile Development · Skill Development · Quick learning · Test-Driven Development · Object-Oriented Programming (OOP) · Agile Project Management · Web Application Development 
+
   - company: Click Europe Ltd
     link: 
     tags: 
